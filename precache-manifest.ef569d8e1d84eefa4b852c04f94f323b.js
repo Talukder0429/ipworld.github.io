@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b0d0e26a09dc617ea3b91b06e17ac44",
+    "revision": "27b1c42f1561706b2317ef2065a74c35",
     "url": "/ipworld/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipworld/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "f3250bb3f20fde3d3908",
+    "revision": "5aeb4e08430305d7a6e4",
     "url": "/ipworld/static/css/main.138b7529.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipworld/static/js/2.481bf27f.chunk.js.LICENSE"
   },
   {
-    "revision": "f3250bb3f20fde3d3908",
-    "url": "/ipworld/static/js/main.18219a60.chunk.js"
+    "revision": "5aeb4e08430305d7a6e4",
+    "url": "/ipworld/static/js/main.48b6fe24.chunk.js"
   },
   {
     "revision": "0d09735297503c3409c8",
