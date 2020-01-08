@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ipworld/static/css/main.138b7529.chunk.css",
+    "main.js": "/ipworld/static/js/main.c44a311d.chunk.js",
+    "main.js.map": "/ipworld/static/js/main.c44a311d.chunk.js.map",
+    "runtime-main.js": "/ipworld/static/js/runtime-main.780ca2c6.js",
+    "runtime-main.js.map": "/ipworld/static/js/runtime-main.780ca2c6.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/ipworld/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.481bf27f.chunk.js": "/ipworld/static/js/2.481bf27f.chunk.js",
+    "static/js/2.481bf27f.chunk.js.map": "/ipworld/static/js/2.481bf27f.chunk.js.map",
+    "index.html": "/ipworld/index.html",
+    "precache-manifest.faee97781bb0752d6f61a58cffd70e49.js": "/ipworld/precache-manifest.faee97781bb0752d6f61a58cffd70e49.js",
+    "service-worker.js": "/ipworld/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/ipworld/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.138b7529.chunk.css.map": "/ipworld/static/css/main.138b7529.chunk.css.map",
+    "static/js/2.481bf27f.chunk.js.LICENSE": "/ipworld/static/js/2.481bf27f.chunk.js.LICENSE",
+    "static/media/image1.jpg": "/ipworld/static/media/image1.e36eceaa.jpg",
+    "static/media/image2.jpg": "/ipworld/static/media/image2.af402f05.jpg",
+    "static/media/image3.jpg": "/ipworld/static/media/image3.23c4253f.jpg",
+    "static/media/logo.png": "/ipworld/static/media/logo.e6aec07b.png",
+    "static/media/pos.jpg": "/ipworld/static/media/pos.440d1aa4.jpg",
+    "static/media/repair.jpg": "/ipworld/static/media/repair.d6426368.jpg",
+    "static/media/ss.jpg": "/ipworld/static/media/ss.e05726a6.jpg",
+    "static/media/voip.png": "/ipworld/static/media/voip.6d976aec.png",
+    "static/media/webTV.jpg": "/ipworld/static/media/webTV.f9bf953e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.780ca2c6.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.481bf27f.chunk.js",
+    "static/css/main.138b7529.chunk.css",
+    "static/js/main.c44a311d.chunk.js"
+  ]
+}
