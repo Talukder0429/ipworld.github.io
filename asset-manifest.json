@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ipworld/static/css/main.138b7529.chunk.css",
-    "main.js": "/ipworld/static/js/main.c44a311d.chunk.js",
-    "main.js.map": "/ipworld/static/js/main.c44a311d.chunk.js.map",
+    "main.js": "/ipworld/static/js/main.f30e6c9e.chunk.js",
+    "main.js.map": "/ipworld/static/js/main.f30e6c9e.chunk.js.map",
     "runtime-main.js": "/ipworld/static/js/runtime-main.780ca2c6.js",
     "runtime-main.js.map": "/ipworld/static/js/runtime-main.780ca2c6.js.map",
     "static/css/2.17e5ed98.chunk.css": "/ipworld/static/css/2.17e5ed98.chunk.css",
     "static/js/2.481bf27f.chunk.js": "/ipworld/static/js/2.481bf27f.chunk.js",
     "static/js/2.481bf27f.chunk.js.map": "/ipworld/static/js/2.481bf27f.chunk.js.map",
     "index.html": "/ipworld/index.html",
-    "precache-manifest.faee97781bb0752d6f61a58cffd70e49.js": "/ipworld/precache-manifest.faee97781bb0752d6f61a58cffd70e49.js",
+    "precache-manifest.8c5eea6abf343a3a695d7ec237952801.js": "/ipworld/precache-manifest.8c5eea6abf343a3a695d7ec237952801.js",
     "service-worker.js": "/ipworld/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/ipworld/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.138b7529.chunk.css.map": "/ipworld/static/css/main.138b7529.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.481bf27f.chunk.js",
     "static/css/main.138b7529.chunk.css",
-    "static/js/main.c44a311d.chunk.js"
+    "static/js/main.f30e6c9e.chunk.js"
   ]
 }
